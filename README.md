@@ -126,7 +126,11 @@ python main.py
 
 Results
 The model achieved 90% accuracy on the test set.
+
 Example classifications:
+
 Review	Predicted Emotion
+
 "This app is amazing!"	Joy
+
 "So frustrating, it keeps crashing!"	Anger
